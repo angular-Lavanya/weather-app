@@ -5,7 +5,6 @@
 - [Demo](#demo)
 - [Install](#install)
 - [Stack](#stack)
-- [Contributing](#contributing)
 
 
 ## Demo
@@ -29,11 +28,5 @@ To view demo examples locally clone the repository and run `npm install && npm r
 
 - Deploy: [GitHub](https://github.com/)
 - API: [Open Weather API](https://openweathermap.org/), [Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome! 🤝
-
-Feel free to check the issues page.
 
 
