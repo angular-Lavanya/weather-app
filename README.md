@@ -6,7 +6,7 @@
 - [Install](#install)
 - [Stack](#stack)
 - [Contributing](#contributing)
-- [Author](#author)
+
 
 ## Demo
 
@@ -36,11 +36,4 @@ Contributions, issues, and feature requests are welcome! 🤝
 
 Feel free to check the issues page.
 
-## Author
 
-Chernyshev Artemiy 👤
-
-- GitHub: [@chernyshevartemiy](https://github.com/chernyshevartemiy)
-- Discord: [@arteche](https://discord.com/users/339701172564656128)
-
-Give a ⭐️ if you like this project!
